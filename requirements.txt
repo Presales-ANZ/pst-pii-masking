@@ -1,0 +1,8 @@
+Faker
+inscriptis
+libratom
+pandas
+presidio-analyzer
+presidio-anonymizer
+pywin32; platform_system == "Windows"
+spacy

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Sensitive source data and generated email exports
+*.pst
+*.ost
+*.eml
+*.msg
+*.mbox
+*.csv
+*.tsv
+email_mapping*
+pst_emails*
+
+# Generated output
+output/
+outputs/
+dist/
+build/
+*.log
+
